@@ -1,4 +1,6 @@
-Thanks for downloading this template!
+Welcome to my portfolio
+
+The template to this portfolio is gotten from Boostrap
 
 Template Name: DevFolio
 Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
