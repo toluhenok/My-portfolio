@@ -1,8 +1,7 @@
-Welcome to my portfolio
+Welcome to my portfolio:
+https://toluhenok.github.io/dataportfolio/
 
 The template to this portfolio is gotten from Boostrap
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
